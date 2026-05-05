@@ -1,6 +1,7 @@
 # Daten zur GIS-basierten Analyse der Sammelinteressen des Ethnologischen Museums Berlin
 
 > Projektarbeit von Firmin Forster (ORCID: [https://orcid.org/0000-0002-7051-8951](https://orcid.org/0000-0002-7051-8951))
+> Folien der Projektpräsentation auf der DHNB2026 in Aarhus (auf englisch): [https://doi.org/10.5281/zenodo.19629975](https://doi.org/10.5281/zenodo.19629975)
 
 ## Abstract
 Das Ethnologische Museum spielte durch einen Bundesratsbeschluss ab 1889 als zentrale Sammelstelle für Objekte aus den deutschen Kolonien eine wichtige Rolle im Deutschen Reich. Die Projektarbeit _Kolonialen Sammlungen auf der Spur. Eine Normdaten- und GIS-basierte Exploration der Sammlungsgeschichte des Ethnologischen Museums Berlin_ untersucht die räumliche und zeitliche Entwicklung der Sammelinteressen des Museums im Zeitraum von ca. 1870 bis 1950. 
@@ -103,4 +104,4 @@ Diese Arbeit ist erst möglich geworden durch die großartige Unterstützung ein
 
 Erstellt am 24. März 2026
 
-Version: 1.0.0
+Version: 1.0.1
