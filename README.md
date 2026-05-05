@@ -1,6 +1,7 @@
 # Daten zur GIS-basierten Analyse der Sammelinteressen des Ethnologischen Museums Berlin
 
 > Projektarbeit von Firmin Forster (ORCID: [https://orcid.org/0000-0002-7051-8951](https://orcid.org/0000-0002-7051-8951))
+> 
 > Folien der Projektpräsentation auf der DHNB2026 in Aarhus (auf englisch): [https://doi.org/10.5281/zenodo.19629975](https://doi.org/10.5281/zenodo.19629975)
 
 ## Abstract
